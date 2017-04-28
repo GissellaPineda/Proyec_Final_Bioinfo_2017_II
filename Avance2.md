@@ -2,7 +2,7 @@
 
 ## Avance 2
 
-El archivo original de los datos crudos de GBS  de *Hypsiboas crepitans* provenientes del secuenciador de Illumina tiene un tamaño 18.71 GB; hasta la fecha he realizado:
+El archivo original de los datos crudos de GBS  de *Hypsiboas crepitans* provenientes del secuenciador de Illumina tiene un tamaño 18.71 GB comprimido; hasta la fecha he realizado:
 
 **1**. Un revisión del archivo crudo  para ver el estado de las secuencias con **FastQC**, usé la interfaz gráfica de este programa.
 
